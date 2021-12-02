@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![averdones's GitHub stats](https://github-readme-stats.vercel.app/api?username=averdones&count_private=true&show_icons=true&theme=tokyonight )](https://averdones.github.io/)
+[![averdones's GitHub stats](https://github-readme-stats.vercel.app/api?username=averdones&count_private=true&show_icons=true&theme=outrun)](https://averdones.github.io/)
 
 <!--
 **averdones/averdones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
